@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_success_stories"
+            android:icon="@drawable/img_2"
+            android:title="Success Stories" />
+        <item
+            android:id="@+id/nav_entrepreneur_stories"
+            android:icon="@drawable/img_1"
+            android:title="Entrepreneur Stories" />
+        <item
+            android:id="@+id/nav_famous_ceos"
+            android:icon="@drawable/img_3"
+            android:title="Famous CEOs" />
+        <item
+            android:id="@+id/nav_ted_talks"
+            android:icon="@drawable/img_4"
+            android:title="TED Talks" />
+        <item
+            android:id="@+id/nav_tech_motivation"
+            android:icon="@drawable/img_5"
+            android:title="Tech Motivation" />
+        <item
+            android:id="@+id/nav_roadmap_generator"
+            android:icon="@drawable/img_6"
+            android:title="Roadmap Generator" />
+        <item
+            android:id="@+id/nav_locate_startups"
+            android:title="Locate Startups" />
+    </group>
+
+    <group android:id="@+id/group_actions" android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/img_7"
+            android:title="Logout"/>
+    </group>
+</menu>

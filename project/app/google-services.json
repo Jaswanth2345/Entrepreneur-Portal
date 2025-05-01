@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459763287648",
+    "project_id": "bizvid-5bfa1",
+    "storage_bucket": "bizvid-5bfa1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459763287648:android:dbf88fe4e8afec5f09a505",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJ4Dv8yMttTgBXkZspq3o9wo4aZG1drM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

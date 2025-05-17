@@ -28,11 +28,19 @@ Download the APK file and run.
 
 ## 🛠 Tech Stack
 
-- *Android Studio* (Kotlin)
-- *YouTube API* integration
-- *Gemini API* (Google's AI Model) for Chatbot and Roadmap Generator
-- *SharedPreferences* for local data storage
-- *Modern UI* (Edge-to-Edge layouts, responsive design)
+Android Studio (Kotlin): Primary development environment and language for building the app.
+
+YouTube Data API: Integrated to embed and stream motivational videos of successful entrepreneurs.
+
+Gemini API (Google's AI Model): Used for chatbot implementation and generating personalized startup roadmaps through REST API calls.
+
+Postman: Utilized for testing and validating RESTful API calls including Gemini API and Firebase endpoints.
+
+Firebase Authentication & Realtime Database: Managed secure user login and real-time data syncing.
+
+SharedPreferences: Implemented for local data storage to retain user preferences and session data.
+
+Modern UI/UX: Designed with edge-to-edge layouts, responsive views, and smooth navigation for an engaging user experience.
 
 ---
 
